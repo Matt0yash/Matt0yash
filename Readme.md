@@ -20,7 +20,7 @@ Let's build the future of the web together! 🚀
  [![An image of @matt0yash's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/matt0yash)](https://holopin.io/@matt0yash)
 
 ---
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://linkedin.com/in/matt0yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matt0yash" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/matt0yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="matt0yash" height="30" width="40" /></a>
 <a href="https://instagram.com/matt0yash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matt0yash" height="30" width="40" /></a>
