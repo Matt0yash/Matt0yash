@@ -52,12 +52,10 @@ Let's build the future of the web together! 🚀
 
 
 ## 🏆 GitHub Trophies:
-![Matt0yash's GitHub](https://github-profile-trophy.vercel.app/?username=matt0yash&theme=radical&hide_border=false&align=center)
+![Matt0yash's GitHub](https://github-profile-trophy.vercel.app/?username=matt0yash&row=2&column=4&theme=radical&hide_border=false&align=center&margin-w=15&margin-h=15&no-frame=true)
 ---
 
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-![](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical&border=hide_border)
