@@ -47,19 +47,17 @@ Let's build the future of the web together! 🚀
 
 ![Matt0yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matt0yash&show_icons=true&theme=radical)
 ![Matt0yash's GitHub Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=matt0yash&theme=radical&hide_border=false&align=right)<br/>
-[![Matt0yash's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt0yash&layout=donut-vertical)](https://github.com/matt0yash/github-readme-stats)
-[![Matt0yash's GitHub | Languages Over Time](https://stats.quine.sh/Matt0yash/languages-over-time?theme=ra)](https://quine.sh?utm_source=widgets&utm_campaign=Matt0yash)
+[![Matt0yash's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt0yash&layout=donut-vertical&theme=radical)](https://github.com/matt0yash/github-readme-stats)
+[![Matt0yash's GitHub | Languages Over Time](https://stats.quine.sh/Matt0yash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Matt0yash)
 
 
 ## 🏆 GitHub Trophies:
 ![Matt0yash's GitHub](https://github-profile-trophy.vercel.app/?username=matt0yash&theme=radical&hide_border=false&align=center)
-
 ---
 
 ### ✍ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+![](https://readme-jokes.vercel.app/api?type=horizontal&theme=radical&border=hide_border)
