@@ -49,6 +49,8 @@ My own HashTags:
 ![Matt0yash's GitHub Streak-Stats](https://github-readme-streak-stats.herokuapp.com/?user=matt0yash&theme=radical&hide_border=false&align=right)<br/>
 [![Matt0yash's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matt0yash&layout=donut-vertical&theme=radical)](https://github.com/matt0yash/github-readme-stats)
 [![Matt0yash's GitHub | Languages Over Time](https://stats.quine.sh/Matt0yash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Matt0yash)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matt0yash&show_icons=true&count_private=true&include_all_commits=true&theme=radical)
+
 
 
 ## 🏆 GitHub Trophies:
